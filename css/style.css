@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+body {
+    background-color: #1900ffbc;
+    text-align: center;
+    font-family: 'Lalezar', cursive;
+}
+
+.div {
+    background-color: #1af0b0;
+    width: 60vw;
+    margin: 0px auto;
+    border-radius: 12px;
+    padding: 10px 20px;
+}
+
+.text1 {
+    text-align: center;
+    padding: 10px 20px;
+    color: #001219;
+    font-size: 2.5em;
+    letter-spacing: 2px;
+    border-bottom: solid 2px #001aff;
+}
+
+.imgmusic {
+    border-radius: 18px;
+}
+
+.boxdownload128 {
+    background-color: #2904fd;
+    display: inline-block;
+    color: #001219;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;
+    border-radius: 18px;
+    padding: 15px 10px;
+}
+
+.boxdownload320 {
+    background-color: #0432fd;
+    display: inline-block;
+    color: #001219;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;
+    border-radius: 18px;
+    padding: 15px 10px;
+}
